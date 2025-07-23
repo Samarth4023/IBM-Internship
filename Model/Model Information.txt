@@ -1,0 +1,5 @@
+Due to GitHub 100MB restrictions, the model cannot be uploaded on repository.
+
+Instead I have uploaded the model on GitHub Releases in the same repository.
+
+It is listed as an Asset in Releases and you can also download it from there !
