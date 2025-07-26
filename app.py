@@ -18,7 +18,7 @@ def load_model():
 model = load_model()
 
 # Streamlit UI
-st.set_page_config(page_title="Employee Salary Prediction", page_icon="💼", layout="wide")
+st.set_page_config(page_title="💼 Employee Salary Predictor", layout="wide")
 st.title("💼 Employee Salary Prediction App")
 st.markdown("Predict whether an employee earns >50K or <=50K based on personal and professional details.")
 
